@@ -1,0 +1,35 @@
+msgid "This comment was originally posted on Google Buzz."
+msgstr "Dieser Kommentar wurde ursprünglich auf Google Buzz veröffentlicht."
+
+msgid "Feed URL"
+msgstr "Feed URL"
+
+msgid "e.g."
+msgstr "z.B."
+
+msgid "Author Google Profile"
+msgstr "Google Profil des Autors"
+
+msgid "Cache Time Main View"
+msgstr "Cache Zeit der Hauptanischt"
+
+msgid "Maximum time in minutes, the comment counts for the main view are cached."
+msgstr "Maximale Zeit in Minuten, nach der die Anzahl der Buzz Kommentare für die Hauptansicht gecached werden."
+
+msgid "Cache Time Details"
+msgstr "Cache Zeit der Detailansicht"
+
+msgid "Maximum time in minutes, the comments and comment counts on the detailed view are cached."
+msgstr "Maximale Zeit in Minuten, nach der die Anzahl der Buzz Kommentare und die Kommentare selbst für die Detailansicht gecached werden."
+
+msgid "Authors User ID"
+msgstr "Benutzer ID des Autors"
+
+msgid "If you set the &quot;Author Google Profile&quot; and the &quot;User ID&quot; settings your Buzz replys will be assigned to your blog user."
+msgstr "Wenn die Optionen &quot;Google Profil des Autors&quot; und &quot;Benutzer ID des Autors&quot; konfiguriert sind, werden die Buzz Kommentare des Autors mit seinem Blog Spitznamen und Avatar angezeigt."
+
+msgid "Custom Buzz Avatar"
+msgstr "Eigener Buzz Avatar"
+
+msgid "The path to an image relative to your wp-content directory. e.g. %s for the file %s."
+msgstr "Der Pfad zu einem Bild relativ zum wp-content Verzeichnis. z.B. %s für die Datei %s."

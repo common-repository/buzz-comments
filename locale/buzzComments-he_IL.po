@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Buss Comments\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/buzz-comments\n"
+"POT-Creation-Date: 2010-07-20 06:35+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Elad Salomons <elad@blogli.co.il>\n"
+"Language-Team: Elad Salomons <elad.salomons@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hebrew\n"
+"X-Poedit-Country: ISRAEL\n"
+
+#: admin.tpl.php:4
+msgid "Cache cleared."
+msgstr "זיכרון המטמון נוקה."
+
+#: admin.tpl.php:11
+msgid "Google Profile E-Mail"
+msgstr "הדוא\"ל של הפרופיל בגוגל"
+
+#: admin.tpl.php:16
+msgid "e.g."
+msgstr "לדוגמה"
+
+#: admin.tpl.php:20
+msgid "Author's User ID"
+msgstr "מזהה המחבר"
+
+#: admin.tpl.php:32
+msgid "If you write a comment on Buzz, the comment would appear with the avatar and name of the selected Wordpress user."
+msgstr "אם אתה מגיב בבאזז, התגובה תופיע עם האווטאר והשם של המשתמש בוורדפרס."
+
+#: admin.tpl.php:35
+msgid "Custom Buzz Avatar"
+msgstr "אווטאר מותאם אישית לבאזז"
+
+#: admin.tpl.php:40
+#, php-format
+msgid "The path to an image relative to your wp-content directory. e.g. %s for the file %s."
+msgstr "המסלול היחסי לספריית wp-content. לדוגמה %s עבור הקובץ %s."
+
+#: admin.tpl.php:43
+msgid "Add Buzz Note after Comment"
+msgstr "להוסיף הודעת גוגל באזז אחרי התגובה"
+
+#: admin.tpl.php:46
+msgid "When you've activated threaded comments, the \"reply\" link will be replaced with text stating that the reply was originally posted on Buzz. If threaded comment mode is deactivated in Wordpress, this note instead gets added to the comment itself. Activate this setting to force this note to always be added to the comment, regardless of threaded mode."
+msgstr "כאשר תגובות משורשרות פועלות, הכפתור \"להגיב\" יוחלף בכיתוב האומר כי מקור התגובה הוא בבאזז. במידה ותגובות משורשרות אינן פעילות, הודעה זו תתווסף לתגובה עצמה. ניתן לסמן אפשרות זאת בכדי להוסיף תמיד את הכיתוב ללא קשר למצב התגובות המשורשרות."
+
+#: admin.tpl.php:50
+msgid "Debug Mode"
+msgstr "מצב ניפוי שגיאות"
+
+#: admin.tpl.php:53
+msgid "If you've problems with the plugin, please <a href=\"http://code.google.com/p/wpbuzzcomments/issues/list\">open a ticket</a>. Sometimes the bug can be fixed much faster, with this option enabled. This option does <b>neither</b> display any security critical information, <b>nor</b> will the debug information be displayed for normal users. You should keep this option disabled, when it isn't needed anyhow."
+msgstr "במידה ונתקלת בבעיות בתוסף, ניתן <a href=\"http://code.google.com/p/wpbuzzcomments/issues/list\">לפתוח כרטיס תקלה</a>. לפעמים תקלות ניתנות לתיקון מהר יותר כאשר אפשרות זו מסומנת. אפשרות זו <b>לעולם לא</b> תציג מידע רגיש, <b>ולא</b> יוצג מידע למשתמשים רגילים. אין צורך לסמן אפשרות זאת כאשר אין בעיה."
+
+#: admin.tpl.php:59
+msgid "Save Changes"
+msgstr "לישמור שינויים"
+
+#: admin.tpl.php:66
+msgid "clear Cache"
+msgstr "לנקות זיכרון מטמון"
+
+#: buzzComments_class.php:110
+#: buzzComments_class.php:122
+msgid "This comment was originally posted on Google Buzz."
+msgstr "תגובה זו מקורה מגוגל באזז."
+
+#: buzzComments_class.php:178
+msgid "WP Buzz Comments configuration is not finished."
+msgstr "לא הסתיימה הגדרת תגובות באזז לוורדפרס."
+
+#: buzzComments_class.php:178
+#, php-format
+msgid "You've at least to configure your &quot;Google Profile E-Mail&quot; in the <a href=\"%s\">Buzz Comments configuration</a>."
+msgstr "עליך להגדיר לפחות את &quot;הדוא\"ל של הפרופיל בגוגל&quot; בעמוד <a href=\"%s\">ההגדרות של תגובות באזז</a>."
+
+#~ msgid "Feed URL"
+#~ msgstr "כתובת הרסס"
+#~ msgid "Cache Time Main View"
+#~ msgstr "Cache Zeit der Hauptanischt"
+#~ msgid ""
+#~ "Maximum time in minutes, the comment counts for the main view are cached."
+#~ msgstr ""
+#~ "Maximale Zeit in Minuten, nach der die Anzahl der Buzz Kommentare fÃ¼r "
+#~ "die Hauptansicht gecached werden."
+#~ msgid "Cache Time Details"
+#~ msgstr "Cache Zeit der Detailansicht"
+#~ msgid ""
+#~ "Maximum time in minutes, the comments and comment counts on the detailed "
+#~ "view are cached."
+#~ msgstr ""
+#~ "Maximale Zeit in Minuten, nach der die Anzahl der Buzz Kommentare und die "
+#~ "Kommentare selbst fÃ¼r die Detailansicht gecached werden."
+#~ msgid ""
+#~ "If you set the &quot;Author Google Profile&quot; and the &quot;User "
+#~ "ID&quot; settings your Buzz replys will be assigned to your blog user."
+#~ msgstr ""
+#~ "Wenn die Optionen &quot;Google Profil des Autors&quot; und &quot;Benutzer "
+#~ "ID des Autors&quot; konfiguriert sind, werden die Buzz Kommentare des "
+#~ "Autors mit seinem Blog Spitznamen und Avatar angezeigt."
+
